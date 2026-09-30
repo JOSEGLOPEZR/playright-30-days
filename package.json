@@ -1,0 +1,23 @@
+{
+  "name": "playright-30-days",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOSEGLOPEZR/playright-30-days.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JOSEGLOPEZR/playright-30-days/issues"
+  },
+  "homepage": "https://github.com/JOSEGLOPEZR/playright-30-days#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
